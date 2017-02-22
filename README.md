@@ -19,3 +19,6 @@ Greetings,
 My name is Prima<b>Yudha</b> Radya Manggala.
 
 A business management graduate who works as a researcher and currently in the process of learning to become a developer.
+
+## Future Plans
+In the future, the obvious thing is to create the website (since it hasn't been made).
